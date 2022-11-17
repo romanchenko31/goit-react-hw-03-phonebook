@@ -1,0 +1,21 @@
+form {
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid #ff920096;
+  padding: 30px;
+  margin-bottom: 10px;
+}
+.label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.button {
+  display: inline-block;
+  margin-left: 120px;
+  background: #ff920096;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+}

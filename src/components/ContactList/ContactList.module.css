@@ -1,0 +1,18 @@
+.contactList {
+  width: 300px;
+  margin: 20px auto;
+}
+
+.item {
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  transform: scale(1);
+}
+
+.button:focus {
+  transform: scale(1.2);
+}
